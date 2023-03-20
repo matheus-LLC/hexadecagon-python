@@ -1,0 +1,2 @@
+ncdu - what directories are using the most disk space
+lsof - LiSt Open Files
