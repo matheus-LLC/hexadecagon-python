@@ -1,3 +1,4 @@
 ncdu - what directories are using the most disk space
 lsof - LiSt Open Files
 systemctl -l -t service | less - List all Systemd services
+cat /proc/cpuinfo - list cpu info
