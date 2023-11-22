@@ -7,6 +7,7 @@ screen = pygame.display.set_mode(size)
 pygame.display.set_caption('SCHIZO TETRIS')
 game_exists = True
 
+# trial change
 while game_exists:
     clock.tick(60)
     for event in pygame.event.get():
